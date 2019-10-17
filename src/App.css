@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.error {
+  font-size: 150%;
+  color: red;
+}
+
+.hidden {
+  display: none;
+}
+
+.product-list{
+  display: flex;
+}
